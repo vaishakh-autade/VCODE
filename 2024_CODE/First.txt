@@ -1,1 +1,3 @@
 New Folder for git commit from new VSCode
+
+Second line added
